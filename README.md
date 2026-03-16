@@ -139,7 +139,7 @@ AI Integration
 <img src="https://img.shields.io/badge/GitHub-uilliamsantos-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://wa.me/97158565920">
+<a href="https://wa.me/9710585645920">
 <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp">
 </a>
 
