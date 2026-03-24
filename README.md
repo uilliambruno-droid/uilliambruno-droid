@@ -155,11 +155,14 @@ AI Integration
 
 # 🎓 Certifications
 
-- Python Fundamentals Bootcamp (DIO) – 26h  
+- Python Fundamentals Bootcamp (DIO) – 26h
+</br>
 <p align="center">
     <img src="assets/certificates/python-fundamentals.png" width="400"/>
 </p> 
+</br>
 - Python Backend Developer Bootcamp (DIO) – 35h 
+</br>
 <p align="center"> 
     <img src="assets/certificates/python-backend.png" width="400"/>
 </p>
