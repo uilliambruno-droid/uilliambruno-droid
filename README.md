@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Uilliam Santos</h1>
-<h3 align="center">Frontend Developer transitioning to Backend with Python, APIs and Real Estate Tech</h3>
+<h3 align="center">Backend Developer with Python | APIs, Automation & Real Estate Tech</h3>
 
 <p align="center">
-🚀 Building systems, APIs and automation tools <br>
+🚀 Building scalable APIs, backend systems and automation tools <br>
 🌍 Based in Dubai <br>
 📚 Focused on Backend Engineering with Python
 </p>
@@ -11,30 +11,31 @@
 
 # 👨‍💻 About Me
 
-I'm a developer with experience in **Frontend Development** and currently expanding my skills into **Backend Engineering with Python**.
+I'm a developer with a background in **Frontend Development**, currently focused on **Backend Engineering with Python**.
 
-My background includes building web interfaces and applications, and now I'm focused on creating **complete backend systems and APIs**.
+I specialize in building **REST APIs, authentication systems, and data-driven applications**, with a strong focus on clean architecture and real-world problem solving.
 
-I also combine **technology, finance and real estate knowledge** to develop tools that help solve real-world problems.
+I also combine **technology, finance, and real estate knowledge** to develop tools and systems that deliver practical value.
 
 ---
 
 # 🧰 Tech Stack
+
+## Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+---
 
 ## Frontend
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ---
 
@@ -55,7 +56,32 @@ I also combine **technology, finance and real estate knowledge** to develop tool
 
 # 🚀 Projects
 
-## Flask Blog API
+## 🏦 Bank API (FastAPI)
+
+A banking system API built with FastAPI featuring:
+
+- Account creation and management  
+- Deposit and withdrawal operations  
+- Balance validation  
+- Transaction history (bank statement)  
+- JWT Authentication  
+- Clean architecture and async endpoints  
+
+### Tech Used
+```
+FastAPI
+SQLAlchemy
+PostgreSQL / SQLite
+JWT
+Async Python
+
+```
+
+---
+
+---
+
+## 📝 Flask Blog API
 
 A REST API built with Flask featuring:
 
@@ -66,7 +92,6 @@ A REST API built with Flask featuring:
 - Automated tests  
 
 ### Tech Used
-
 ```
 Flask
 SQLAlchemy
@@ -76,6 +101,23 @@ SQLite
 ```
 
 ---
+
+## 🌐 Django Web Application
+
+A full backend system built with Django:
+
+- ORM-based data modeling  
+- Admin panel  
+- Structured backend architecture  
+- Scalable project structure  
+
+### Tech Used
+```
+Django
+ORM
+SQLite / PostgreSQL
+
+```
 
 ## Real Estate Data Tools
 
@@ -106,6 +148,25 @@ Advanced Backend Architecture
 System Design
 Django
 Microservices
+AI Integration
+```
+
+---
+
+# 🎓 Certifications
+
+- Python Fundamentals Bootcamp (DIO) – 26h  [oai_citation:0‡ESN1JCHM (1).pdf](sediment://file_000000002ea0720abb556967b0a8e99c)  
+- Python Backend Developer Bootcamp (DIO) – 35h  [oai_citation:1‡SXXKMSPH.pdf](sediment://file_000000003e2072468555e0c49ca21d85)  
+
+---
+
+# 📚 Currently Learning
+
+```
+Advanced Backend Architecture
+System Design
+Microservices
+Scalable APIs
 AI Integration
 ```
 
