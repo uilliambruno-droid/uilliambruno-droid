@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uilliam Santos</h1>
-<h3 align="center">Backend Developer with Python | APIs, Automation & Real Estate Tech</h3>
+<h3 align="center">Backend Developer with Python | APIs, automation & AI-powered solutions</h3>
 
 <p align="center">
 🚀 Building scalable APIs, backend systems and automation tools <br>
@@ -13,9 +13,9 @@
 
 I'm a developer with a background in **Frontend Development**, currently focused on **Backend Engineering with Python**.
 
-I specialize in building **REST APIs, authentication systems, and data-driven applications**, with a strong focus on clean architecture and real-world problem solving.
+I specialize in building **REST APIs, authentication systems, automation workflows, and data-driven applications**, with a strong focus on clean architecture and practical problem solving.
 
-I also combine **technology, finance, and real estate knowledge** to develop tools and systems that deliver practical value.
+My work now centers on shipping useful products that combine backend engineering, product thinking, and AI where it makes sense.
 
 ---
 
@@ -36,13 +36,16 @@ I also combine **technology, finance, and real estate knowledge** to develop too
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## Databases
+## Data
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
@@ -51,121 +54,219 @@ I also combine **technology, finance, and real estate knowledge** to develop too
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white)
+
+---
+
+## AI & Automation
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 # 🚀 Projects
 
-## 🏦 Bank API (FastAPI)
+## 🌐 Uilliam Santos Portfolio
 
-A banking system API built with FastAPI featuring:
+Modern single-page portfolio showcasing my work, experience, and contact details.
 
-- Account creation and management  
-- Deposit and withdrawal operations  
-- Balance validation  
-- Transaction history (bank statement)  
-- JWT Authentication  
-- Clean architecture and async endpoints  
+- Responsive layout with smooth scroll-reveal animations
+- Dynamic GitHub project section
+- Contact form without a backend requirement
+- Accessibility-focused structure and reduced-motion support
+
+### Tech Used
+```
+HTML5
+CSS3
+JavaScript
+Bootstrap 5
+FormSubmit.co
+```
+
+---
+
+## 📬 PropPilot Take-Home
+
+Mini multi-tenant lead inbox built for secure contact capture and internal follow-up.
+
+- Public contact form for lead submission
+- Agent login with Supabase authentication
+- Inbox scoped by tenant with RLS protection
+- Realtime updates and manual status workflow
+
+### Tech Used
+```
+Vite
+React
+TypeScript
+Tailwind CSS
+Supabase
+```
+
+---
+
+## 💰 Pluto Finance AI
+
+Conversational finance assistant focused on budgeting, planning, and transaction tracking.
+
+- Mandatory profile intake before chat
+- Natural-language income and expense capture
+- Goal tracking with progress and target estimates
+- Optional LLM fallback path for resilient responses
+
+### Tech Used
+```
+Python
+Streamlit
+Pandas
+Requests
+Supabase
+OpenRouter
+```
+
+---
+
+## 🛡️ Fraud Detector
+
+Production-oriented ML project for credit card fraud detection.
+
+- Data cleaning and stratified splits
+- Logistic Regression and XGBoost baselines
+- Business-cost threshold optimization
+- MLflow experiment tracking and artifact logging
+
+### Tech Used
+```
+Python
+Scikit-learn
+XGBoost
+MLflow
+Poetry
+```
+
+---
+
+## 🧠 Laborit Project
+
+FastAPI copilot API built around resilience, observability, and scalable caching.
+
+- Two-level cache with Redis support
+- Retry, timeout, and circuit breaker flow
+- Structured metadata per request
+- MySQL-backed data layer with operational endpoints
+
+### Tech Used
+```
+FastAPI
+Python
+SQLAlchemy
+MySQL
+Redis
+Poetry
+```
+
+---
+
+## ⚡ FastAPI Blog API
+
+Asynchronous blog API with authentication, ownership rules, and strong test coverage.
+
+- JWT authentication
+- Owner-based authorization for posts
+- Middleware for request logging and security headers
+- Alembic migrations and integration tests
 
 ### Tech Used
 ```
 FastAPI
 SQLAlchemy
-PostgreSQL / SQLite
-JWT
-Async Python
-
+Alembic
+Pytest
+Poetry
 ```
-
----
 
 ---
 
 ## 📝 Flask Blog API
 
-A REST API built with Flask featuring:
+REST API built with Flask to demonstrate clean architecture and role-based access control.
 
-- JWT Authentication  
-- Users, Roles and Posts  
-- Full CRUD operations  
-- Database migrations  
-- Automated tests  
+- JWT login flow
+- Admin and normal user permissions
+- CRUD for users, roles, and posts
+- Automated validation with unit and integration tests
 
 ### Tech Used
 ```
 Flask
-SQLAlchemy
-JWT
+Flask-SQLAlchemy
+Flask-JWT-Extended
+Marshmallow
 Pytest
 SQLite
 ```
 
 ---
 
-## 🌐 Django Web Application
+## 🌱 django-site
 
-A full backend system built with Django:
+Multi-app Django project with polls, contacts, and accounts modules.
 
-- ORM-based data modeling  
-- Admin panel  
-- Structured backend architecture  
-- Scalable project structure  
+- Environment-based settings split for development and production
+- Custom admin and permission-gated views
+- Test suite covering models, forms, and views
+- Render deployment configuration
 
 ### Tech Used
 ```
 Django
-ORM
-SQLite / PostgreSQL
-
+Python
+Pytest
+WhiteNoise
+Gunicorn
+Poetry
 ```
 
-## Real Estate Data Tools
+---
 
-Tools focused on **real estate analysis and automation**.
+## 🏦 Banking System Challenge
 
-Features include:
+Console-based banking system built as a bootcamp challenge.
 
-- ROI calculations
-- property comparison
-- automation scripts
-- market analysis
+- Customer and account creation
+- Deposit, withdrawal, and statement flow
+- Balance rules and transaction history
+- Lightweight CLI structure for practice
 
 ### Tech Used
-
 ```
 Python
-SQL
-Automation
-Data Analysis
+OOP
+CLI
+Poetry
 ```
 
 ---
 
-# 📚 Currently Learning
+## 📘 Mamba Mentality NotebookLM
 
+AI-curated study project about leadership, performance, and strategic excellence.
+
+- Curated source exploration and synthesis
+- Prompt refinement and insight extraction
+- Structured notes for reusable learning
+- Focus on high-performance mindset and practical takeaways
+
+### Tech Used
 ```
-Advanced Backend Architecture
-System Design
-Django
-Microservices
-AI Integration
+NotebookLM
+AI
+Research
+Documentation
 ```
-
----
-
-# 🎓 Certifications
-
-<h4 align="center">- Python Fundamentals Bootcamp (DIO) – 26h</h4>
-
-<p align="center">
-    <img src="assets/certificates/python-fundamentals.png" width="400"/>
-</p> 
-
-<h4 align="center">- Python Backend Developer Bootcamp (DIO) – 35h </h4>
-
-<p align="center"> 
-    <img src="assets/certificates/python-backend.png" width="400"/>
-</p>
 
 ---
 
@@ -178,6 +279,22 @@ Microservices
 Scalable APIs
 AI Integration
 ```
+
+---
+
+# 🎓 Certifications
+
+<h4 align="center">- Python Fundamentals Bootcamp (DIO) – 26h</h4>
+
+<p align="center">
+    <img src="assets/certificates/python-fundamentals.png" width="400"/>
+</p>
+
+<h4 align="center">- Python Backend Developer Bootcamp (DIO) – 35h</h4>
+
+<p align="center">
+    <img src="assets/certificates/python-backend.png" width="400"/>
+</p>
 
 ---
 
@@ -197,7 +314,7 @@ AI Integration
 
 <p align="center">
 
-<a href="www.linkedin.com/in/uilliam-santos-2206b8375">
+<a href="https://www.linkedin.com/in/uilliam-santos-2206b8375">
 <img src="https://img.shields.io/badge/LinkedIn-Uilliam%20Santos-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -206,7 +323,7 @@ AI Integration
 </a>
 
 <a href="https://github.com/uilliambruno-droid">
-<img src="https://img.shields.io/badge/GitHub-uilliamsantos-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-uilliambruno--droid-black?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://wa.me/9710585645920">
@@ -219,7 +336,7 @@ AI Integration
 
 # ⚡ Fun Fact
 
-I combine **technology, finance and real estate** to build smarter systems and tools.
+I enjoy turning complex workflows into practical backend tools and polished user experiences.
 
 ---
 
