@@ -122,7 +122,11 @@ See my public repositories and contribution activity on [my GitHub profile](http
 <img src="https://img.shields.io/badge/LinkedIn-Uilliam%20Santos-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="https://uilliambruno-droid.github.io/portfolio/">Portfolio</a> · <a href="mailto:uilliambruno@gmail.com">
+<a href="https://uilliambruno-droid.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Uilliam%20Santos-6C63FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+</a>
+
+<a href="mailto:uilliambruno@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
